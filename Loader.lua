@@ -4,7 +4,7 @@ print("========================================")
 print("🔗 HANHUB LOADER v1.0")
 print("========================================")
 
-local mainScriptURL = "https://raw.githubusercontent.com/hanifabdullahzuhdi123/testing/main/Main/HanHub.lua"
+local mainScriptURL = "https://raw.githubusercontent.com/hanifabdullahzuhdi123/testing/main/Main/Loader.lua"
 
 print("📥 Downloading main script...")
 print("URL: " .. mainScriptURL)
